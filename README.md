@@ -1,4 +1,4 @@
-# hello-world-git-tutorial
+# hello-world
 
 Tutorial [Source](https://docs.github.com/en/get-started/quickstart/hello-world)
 
